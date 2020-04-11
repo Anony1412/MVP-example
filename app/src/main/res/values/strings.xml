@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MVP-Example</string>
+    <string name="title_username">Username</string>
+    <string name="title_password">Password</string>
+    <string name="title_register_question">Register new account?</string>
+    <string name="title_login">Login</string>
+    <string name="title_logout">Log Out</string>
+    <string name="title_register">Register</string>
 </resources>
